@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Path.cs">
+    <Files>
+      <File FileName="Assets\Attack.cs" Line="54" Column="26" />
+      <File FileName="Assets\Defence.cs" Line="52" Column="21" />
+      <File FileName="Assets\Path.cs" Line="16" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
